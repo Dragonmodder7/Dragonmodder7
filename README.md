@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello Word 👾
+# My name is jhon I am from brazil and I am a grayhat hacker ᐠ(ᐛ)ᐟ
+# Skill | Code:
+🖥 Shell
+🐘 PHP
+🐍 Python
 
-<!--
-**Dragonmodder7/Dragonmodder7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# SO/Machine:
+🦈 Arch Linux
+🐬 Kali linux
+🌴 Android
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Social mídia:
+🐈‍⬛ Git hub: https://github.com/Dragonmodder7
+👾 YouTube: @Dragonmodder7
